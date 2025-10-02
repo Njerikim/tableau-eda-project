@@ -54,7 +54,7 @@ The cleaned dataset is then exported and uploaded into **Tableau Public** for in
 ## 📊 Tableau Dashboard
 
 You can explore the live dashboard here:
-👉 [Tableau Public Project Link](https://public.tableau.com/s/) *(replace with your actual link once published)*
+👉 [Tableau Public Project Link]([https://public.tableau.com/s/](https://public.tableau.com/newWorkbook/57a2184c-3252-4a17-82ae-314bc26f854e#1)) 
 
 ---
 
